@@ -1,12 +1,23 @@
-# calculator_app
+# 🔢 Calculator App  
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.24-blue?logo=flutter)  
+![Dart](https://img.shields.io/badge/Dart-3.5-blue?logo=dart)  
+![License](https://img.shields.io/badge/License-MIT-green.svg)  
+![Stars](https://img.shields.io/github/stars/iamCRP/Calculator-App?style=social)  
+![Forks](https://img.shields.io/github/forks/iamCRP/Calculator-App?style=social)  
 
-## Getting Started
+A modern **Flutter Calculator App** with a clean and responsive UI.  
+This project is built to practice Flutter basics, state management, and UI design while providing a simple but functional calculator.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+
+- ➕ Perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division)  
+- 🧮 Clear (AC) and Delete (⌫) functions  
+- 📱 Responsive design for Android, iOS, and Web  
+- 🎨 Simple & elegant UI  
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
